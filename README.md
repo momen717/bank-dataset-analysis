@@ -5,7 +5,7 @@ Why this data suitable for the project:
 The dataset contains a wide range of information about bank clients, including demographics (age, marital status, education), financial status (account balance, loan status), contact details (communication type, last contact day/month), and marketing outcomes (duration, campaign details, previous interactions). This rich information allows for comprehensive analysis and insights into customer behavior and marketing effectiveness, also, The data is derived from real-world banking and marketing operations, making it highly relevant for analyzing actual customer behaviors, trends, and outcomes. This real-world context enhances the practical applicability of any findings or insights gained from the analysis.
 Kaggle link:
 Bank Client Attributes and Marketing Outcomes (kaggle.com)
-Description:
+
 (45211, 18)
  rows,columns
 
